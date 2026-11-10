@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm [Your Name]</h1>
+  <h1>Hi, I'm Jean Armel Biyiha </h1>
   <h3>Data Analyst | Turning raw data into decisions that matter</h3>
 
   <p>
