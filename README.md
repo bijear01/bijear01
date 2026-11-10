@@ -3,7 +3,7 @@
   <h3>Data Analyst | Turning raw data into decisions that matter</h3>
 
   <p>
-    <a href="mailto:YourEmailHere">
+    <a href="mailto:bijear01@yahoo.com">
       <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
     <a href="YourLinkedInProfileHere">
@@ -30,7 +30,7 @@ Currently open to full-time Data Analyst roles.
 
 - Building a portfolio with real-world datasets
 - Comfortable across SQL, Python, Power BI, and Tableau
-- Committed to ethical and transparent data practice
+- Committed to ethical and transparent data practices
 - Focused on EDA, hypothesis testing, and clear dashboard design
 
 ### Preferred Roles
@@ -89,7 +89,7 @@ Currently open to full-time Data Analyst roles.
 - Built end-to-end analysis projects from raw data to stakeholder-ready insights
 - Developed interactive dashboards and clear visualisations
 - Applied statistical methods and introductory machine learning techniques
-- Focused on reproducible and ethical data practice
+- Focused on reproducible and ethical data practices
 
 ### Professional Strengths
 
