@@ -6,10 +6,10 @@
     <a href="mailto:bijear01@yahoo.com">
       <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
-    <a href="YourLinkedInProfileHere">
+    <a href=""https://www.linkedin.com/in/jean-armel-biyiha/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="YourGitHubProfileHere">
+    <a href="https://github.com/bijear01">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
     </a>
   </p>
@@ -29,7 +29,7 @@ I care about doing analysis that is honest, reproducible, and actually useful.
 Currently open to full-time Data Analyst roles.
 
 - Building a portfolio with real-world datasets
-- Comfortable across SQL, Python, Power BI, and Tableau
+- Comfortable with SQL, Python, Power BI, and Tableau
 - Committed to ethical and transparent data practices
 - Focused on EDA, hypothesis testing, and clear dashboard design
 
@@ -82,6 +82,19 @@ Currently open to full-time Data Analyst roles.
 | [Project Title 1] | Brief description of what the analysis covers and the key insight found. | [Repo](#) · [Notebook](#) |
 | [Project Title 2] | Brief description of what the analysis covers and the key insight found. | [Repo](#) · [Notebook](#) |
 | [Project Title 3] | Brief description of what the analysis covers and the key insight found. | [Repo](#) · [Notebook](#) |
+
+### Virtual Experience & Job Simulations (The Forage)
+
+* **J.P. Morgan — Excel Skills Job Simulation** ([View Certificate](https://www.theforage.com/simulations/jpmorgan/excel-skills-h5vs/completed))
+  *Applied advanced Excel shortcuts, data cleaning, and VBA automation to analyse account sales data.*
+* **Goldman Sachs — Excel Skills for Business Job Simulation** ([View Certificate](https://www.theforage.com/simulations/goldman-sachs/excel-skills-oi3f/completed))
+  *Built dynamic financial models, lookup formulas, and executive summary tables.*
+* **PwC Switzerland — Power BI Job Simulation** ([View Certificate](https://www.theforage.com/simulations/pwc-ch/power-bi-cqxg/completed))
+  *Designed interactive Power BI dashboards and KPI visualisations to communicate business insights.*
+* **KPMG AU — Data Analytics Consulting Job Simulation** ([View Certificate](https://www.theforage.com/simulations/kpmg-au/data-analytics-y7gh/completed))
+  *Conducted data quality assessments, customer segmentation, and visual storytelling for client targeting.*
+* **Accenture North America — Data Analytics & Visualization Job Simulation** ([View Certificate](https://www.theforage.com/simulations/accenture-nam/data-analytics-mmlb/completed))
+  *Cleaned, modelled, and visualised social media datasets to guide client content strategy.*
 
 ### Key Achievements
 
